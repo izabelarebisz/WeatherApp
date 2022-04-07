@@ -1,4 +1,3 @@
 # WeatherApp
 
-### Documentation
-[Dokumentacja](WeatherApp/Rębisz_WeatherApp.pdf)
+[Documentation](WeatherApp/Rębisz_WeatherApp.pdf)
